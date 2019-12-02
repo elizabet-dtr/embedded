@@ -9,7 +9,7 @@
  
  * drives LEDs, and rumble motors of gamepad (via command line parameters, or interactive, or ...)
  
- * EXTRA:
+ EXTRA:
  
  * control multiple gamepads and hot-pluggable
  
