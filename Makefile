@@ -2,8 +2,9 @@
 
 PN=usb
 PN1=usb1
-CCA=arm-linux-gcc
+CCA=/usr/local/xtools/arm-unknown-linux-uclibcgnueabi/bin/arm-linux-gcc
 CCL=gcc
+ARCH=arm
 
 CFLAGS=-Wall -Werror                      
 
